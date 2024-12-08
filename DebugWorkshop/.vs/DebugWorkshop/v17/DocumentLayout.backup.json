@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\Magshimim\\Year2\\C\u002B\u002B\\Week6\\DebugWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54691FC-CC8B-45A6-9C48-DBA9DEC33B54}|LoopAgain\\LoopAgain.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Magshimim\\Year2\\C\u002B\u002B\\Week6\\DebugWorkshop\\LoopAgain\\LoopAgain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E54691FC-CC8B-45A6-9C48-DBA9DEC33B54}|LoopAgain\\LoopAgain.vcxproj|solutionrelative:LoopAgain\\LoopAgain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoopAgain.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\Magshimim\\Year2\\C\u002B\u002B\\Week6\\DebugWorkshop\\LoopAgain\\LoopAgain.cpp",
+              "RelativeDocumentMoniker": "LoopAgain\\LoopAgain.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\Magshimim\\Year2\\C\u002B\u002B\\Week6\\DebugWorkshop\\LoopAgain\\LoopAgain.cpp",
+              "RelativeToolTip": "LoopAgain\\LoopAgain.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:32:22.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
